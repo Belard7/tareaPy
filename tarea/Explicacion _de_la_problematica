@@ -1,0 +1,3 @@
+ una tienda en línea tiene problemas con el manejo manual de su inventario, lo que puede llevar a que productos se queden sin stock o que se compre demasiado. Además, no tienen un sistema que calcule el valor total de los productos en stock
+
+ este programa permite a los gerentes ingresar los datos de un producto (nombre, cantidad en stock, precio) y verifica si alguno de los productos está por debajo del minimo de stock 
